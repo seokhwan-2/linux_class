@@ -1,1 +1,2 @@
 linux_class
+다른 계정에서 변경
